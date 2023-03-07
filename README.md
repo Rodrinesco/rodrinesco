@@ -1,5 +1,3 @@
-<h1 align="center">Sobre mim</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript">
